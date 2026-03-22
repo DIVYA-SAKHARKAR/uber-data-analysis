@@ -1,4 +1,3 @@
-# uber-data-analysis
 # Uber Ride Data Analysis
 
 ## Project Overview
